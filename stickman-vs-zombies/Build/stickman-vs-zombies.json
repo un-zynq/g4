@@ -1,0 +1,12 @@
+{
+"companyName": "FreezeNova",
+"productName": "Stickman vs Zombies",
+"dataUrl": "stickman-vs-zombies.data.unityweb",
+"asmCodeUrl": "stickman-vs-zombies.asm.code.unityweb",
+"asmMemoryUrl": "stickman-vs-zombies.asm.memory.unityweb",
+"asmFrameworkUrl": "stickman-vs-zombies.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#808080",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
